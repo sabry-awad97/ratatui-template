@@ -1,0 +1,13 @@
+order_id,customer_id,order_date,product_id,product_name,category,quantity,unit_price,total_amount,shipping_method
+10001,C5678,2023-06-01,PRD-345,Wireless Earbuds,Electronics,2,79.99,159.98,Standard
+10002,C3456,2023-06-01,PRD-789,Yoga Mat,Sports & Outdoors,1,29.99,29.99,Express
+10003,C7890,2023-06-02,PRD-123,Coffee Maker,Home & Kitchen,1,89.99,89.99,Standard
+10004,C2345,2023-06-02,PRD-456,Smartphone Case,Electronics,3,14.99,44.97,Standard
+10005,C6789,2023-06-03,PRD-234,Running Shoes,Sports & Outdoors,1,119.99,119.99,Express
+10006,C4567,2023-06-03,PRD-567,Blender,Home & Kitchen,1,59.99,59.99,Standard
+10007,C8901,2023-06-04,PRD-890,Wireless Mouse,Electronics,2,24.99,49.98,Standard
+10008,C1234,2023-06-04,PRD-901,Fitness Tracker,Electronics,1,99.99,99.99,Express
+10009,C5678,2023-06-05,PRD-234,Running Shoes,Sports & Outdoors,1,119.99,119.99,Standard
+10010,C3456,2023-06-05,PRD-678,Cookware Set,Home & Kitchen,1,149.99,149.99,Standard
+10011,C7890,2023-06-06,PRD-345,Wireless Earbuds,Electronics,1,79.99,79.99,Express
+10012,C2345,2023-06-06,PRD-123,Coffee Maker,Home & Kitchen,1,89.99,89.99,Standard
